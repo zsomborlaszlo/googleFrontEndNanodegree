@@ -1,0 +1,36 @@
+/* add your CSS here */
+.interesting-fact {
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.big-box {
+    border-color: lightgrey;
+    border-style: solid;
+    border-width: thin;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .1);
+    padding: 10px;
+    padding-top: 0px;
+    width: 300px;
+}
+
+.small-box {
+    border-color: lightgrey;
+    border-style: solid;
+    border-width: thin;
+    padding: 10px;
+    width: 278px;
+}
+
+img {
+    padding-bottom: 10px;
+}
